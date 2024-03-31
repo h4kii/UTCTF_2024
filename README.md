@@ -1,2 +1,2 @@
 # UTCTF_2024
- UTCTF 2024 writeups
+ UTCTF 2024 Writeups
